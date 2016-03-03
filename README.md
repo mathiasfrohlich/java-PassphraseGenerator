@@ -39,10 +39,6 @@ Word List can be : diceware or beale
 * Create Issus
 * Give best possible description
 
-## Source
-
-[Github](https://github.com/mathiasfrohlich/java-PassphraseGenerator)
-
 ## Change Log
 
 ### Version 1.0
